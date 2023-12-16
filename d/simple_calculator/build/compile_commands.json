@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/chorp/Desktop/C/d/simple_calculator/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -Wall -Wextra -std=c++17 -o CMakeFiles\\args.dir\\args.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\args.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\args.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/d/simple_calculator/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -Wall -Wextra -std=c++17 -o CMakeFiles\\calc.dir\\calc.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\calc.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\calc.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/d/simple_calculator/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -IC:/Users/chorp/Desktop/C/d/simple_calculator/nse/. -g -Wall -Wextra -std=c++17 -o CMakeFiles\\calc_expr.dir\\calc_expr.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\calc_expr.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\calc_expr.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/d/simple_calculator/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -Wall -Wextra -std=c++17 -o nse\\CMakeFiles\\nse_html.dir\\html.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\nse\\html.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\d\\simple_calculator\\nse\\html.cpp"
+}
+]

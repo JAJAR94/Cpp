@@ -1,0 +1,3 @@
+C:/Users/chorp/Desktop/C/Lifetime/build/CMakeFiles/test_lifetime.dir
+C:/Users/chorp/Desktop/C/Lifetime/build/CMakeFiles/edit_cache.dir
+C:/Users/chorp/Desktop/C/Lifetime/build/CMakeFiles/rebuild_cache.dir

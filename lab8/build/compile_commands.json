@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/chorp/Desktop/C/lab8/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q1.dir\\q1.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\lab8\\q1.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\lab8\\q1.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/lab8/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.dir\\q2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\lab8\\q2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\lab8\\q2.cpp"
+}
+]

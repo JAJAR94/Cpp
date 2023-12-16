@@ -1,0 +1,5 @@
+C:/Users/chorp/Desktop/C/nse_html/build/CMakeFiles/html_test.dir
+C:/Users/chorp/Desktop/C/nse_html/build/CMakeFiles/q1.dir
+C:/Users/chorp/Desktop/C/nse_html/build/CMakeFiles/q2.dir
+C:/Users/chorp/Desktop/C/nse_html/build/CMakeFiles/edit_cache.dir
+C:/Users/chorp/Desktop/C/nse_html/build/CMakeFiles/rebuild_cache.dir

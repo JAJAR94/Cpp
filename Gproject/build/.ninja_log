@@ -1,0 +1,14 @@
+# ninja log v5
+4	1261	7073309386268009	CMakeFiles/main.dir/main.cpp.obj	a889ed8e83847e19
+895	1036	7068012355738630	register.exe	95f6debc0083a0e
+35	976	7070809521522728	CMakeFiles/main.dir/classes/User.cpp.obj	5c17ec99342fc787
+11	1450	7071512764883947	CMakeFiles/main.dir/classes/Register.cpp.obj	4834c0d123978d1d
+11	2048	7071517644471329	CMakeFiles/main.dir/classes/Teacher.cpp.obj	4129c8013672bb85
+1261	1516	7073309388748135	main.exe	8c6bb1ce48ad3694
+18	894	7068012354353309	CMakeFiles/register.dir/register.cpp.obj	16cf53609349ef67
+618	743	7069893636526175	main1.exe	a70fd51ce1f13761
+4	617	7069893635300232	CMakeFiles/main1.dir/st.cpp.obj	d5008ee4bb46bc4
+34	784	7070807246329853	CMakeFiles/main.dir/classes/Homework.cpp.obj	11df2ef935f7be2b
+29	1096	7070812140675402	CMakeFiles/main.dir/classes/Login.cpp.obj	65121f328152016c
+38	2028	7070811612777253	CMakeFiles/main.dir/classes/Student.cpp.obj	19921e2a03c45d23
+42	721	7070809518870770	CMakeFiles/main.dir/classes/globals.cpp.obj	9d705d77c87a83a3

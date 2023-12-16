@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "nse",
+					"jsonFile" : "directory-nse-Debug-a663e43238d56da38e11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "nse",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "simple_calculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "args::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-args-Debug-4a04865597493ea75144.json",
+					"name" : "args",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc-Debug-4027a09830ebbd051d26.json",
+					"name" : "calc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calc_expr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calc_expr-Debug-fbda1c779f6536b5a450.json",
+					"name" : "calc_expr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "nse_html::@75099c133a372538c8b9",
+					"jsonFile" : "target-nse_html-Debug-32576dfb2235569d7d32.json",
+					"name" : "nse_html",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/chorp/Desktop/C/d/simple_calculator/build",
+		"source" : "C:/Users/chorp/Desktop/C/d/simple_calculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

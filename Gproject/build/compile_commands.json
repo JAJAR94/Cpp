@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\main.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\main.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\Teacher.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Teacher.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Teacher.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\Login.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Login.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Login.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\Homework.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Homework.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Homework.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\Register.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Register.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Register.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\Student.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Student.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\Student.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\User.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\User.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\User.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Gproject/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\classes\\globals.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\globals.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Gproject\\classes\\globals.cpp"
+}
+]

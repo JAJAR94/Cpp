@@ -1,0 +1,57 @@
+[
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q1.1.dir\\hw2.1.1.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.1.1.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.1.1.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q1.2.dir\\hw2.1.2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.1.2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.1.2.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q1.3.dir\\hw2.1.3.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.1.3.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.1.3.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.1.dir\\hw2.2.1.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.2.1.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.2.1.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.1.dir\\header2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\header2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\header2.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.2.dir\\hw2.2.2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.2.2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.2.2.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.2.dir\\header2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\header2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\header2.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.3.dir\\hw2.2.3.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.2.3.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw2.2.3.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.3.dir\\header2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\header2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\header2.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q3.dir\\hw3.1.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw3.1.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\hw3.1.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/Hw2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q3.dir\\header3.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\Hw2\\header3.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\Hw2\\header3.cpp"
+}
+]

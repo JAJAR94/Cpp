@@ -1,0 +1,8 @@
+# ninja log v5
+12	1384	7037006823012816	CMakeFiles/calc_expr.dir/calc_expr.cpp.obj	4004daac5079af23
+4	1661	7037006438495950	nse/CMakeFiles/nse_html.dir/html.cpp.obj	1baea27ed8e1d43c
+1661	1854	7037006440459374	nse/libnse_html.a	c3a47d278ba1cae1
+1854	2042	7037006442293248	calc_expr.exe	2b58ae93334533f0
+12	210	7037030675633240	calc_expr.exe	2b58ae93334533f0
+8	1384	7037030929283230	CMakeFiles/calc_expr.dir/calc_expr.cpp.obj	4004daac5079af23
+1385	1570	7037030931116502	calc_expr.exe	2b58ae93334533f0

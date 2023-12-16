@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/chorp/Desktop/C/nse_html/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -Wall -Wextra -std=c++17 -o CMakeFiles\\html_test.dir\\html_test.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\nse_html\\html_test.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\nse_html\\html_test.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/nse_html/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -Wall -Wextra -std=c++17 -o CMakeFiles\\html_test.dir\\nse\\html.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\nse_html\\nse\\html.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\nse_html\\nse\\html.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/nse_html/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q1.dir\\q1.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\nse_html\\q1.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\nse_html\\q1.cpp"
+},
+{
+  "directory": "C:/Users/chorp/Desktop/C/nse_html/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -g -o CMakeFiles\\q2.dir\\q2.cpp.obj -c C:\\Users\\chorp\\Desktop\\C\\nse_html\\q2.cpp",
+  "file": "C:\\Users\\chorp\\Desktop\\C\\nse_html\\q2.cpp"
+}
+]

@@ -1,0 +1,9 @@
+C:/Users/chorp/Desktop/C/simple_calculator/build/CMakeFiles/args.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/CMakeFiles/calc.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/CMakeFiles/calc_expr.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/CMakeFiles/q3.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/CMakeFiles/edit_cache.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/CMakeFiles/rebuild_cache.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/nse/CMakeFiles/nse_html.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/nse/CMakeFiles/edit_cache.dir
+C:/Users/chorp/Desktop/C/simple_calculator/build/nse/CMakeFiles/rebuild_cache.dir
